@@ -6,7 +6,7 @@ Welcome to NSharp, a powerful and intuitive programming language designed for de
 
 To get started with NSharp, follow these steps:
 
-1. Install the NSharp compiler and runtime environment.
+1. Install the NSharp inperpreter and compiler.
 - [Download for linux](https://github.com/Ametrine-cc/NSharp/archive/refs/heads/main.zip)
 - Download for windows (coming soon)
 - Download for mac (coming soon)
