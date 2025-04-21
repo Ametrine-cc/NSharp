@@ -1,1 +1,3 @@
-remote_theme: "gh-pages"
+theme:
+  name: default
+  dark_mode: true
