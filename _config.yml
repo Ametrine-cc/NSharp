@@ -1,3 +1,15 @@
 theme:
-  name: default
+  name: custom-dark
   dark_mode: true
+  colors:
+    background: "#121212"  # Dark background
+    text: "#FFFFFF"        # White text
+    primary: "#BB86FC"     # Accent color (purple)
+    secondary: "#03DAC6"   # Secondary accent (teal)
+    error: "#CF6679"       # Error color (red)
+  fonts:
+    body: "Arial, sans-serif"
+    headings: "Georgia, serif"
+  spacing:
+    padding: "16px"
+    margin: "16px"
